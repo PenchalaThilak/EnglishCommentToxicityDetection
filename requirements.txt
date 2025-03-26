@@ -1,0 +1,10 @@
+huggingface_hub==0.25.2
+numpy
+pandas
+seaborn
+matplotlib
+tensorflow
+pickle-mixin
+scikit-learn
+gradio
+pickle5
