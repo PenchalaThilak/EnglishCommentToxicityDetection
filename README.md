@@ -44,6 +44,7 @@ This project is a web application that classifies English comments as toxic or n
 - **Download Link**:
   - Viewable Link (for users): [toxicity.h5 on Google Drive](https://drive.google.com/file/d/14REfZW8UQmovqwk1DOXuPtj7bY9NuTI-/view?usp=sharing)
   - Downloadable Link (for the app): [Direct Download](https://drive.google.com/uc?id=14REfZW8UQmovqwk1DOXuPtj7bY9NuTI-)
+  - Dataset Link (for training and testing): [Direct Download](https://drive.google.com/file/d/1K7fEy7aSIKzkAg0tuTyPmaV-fjLrWe3X/view?usp=sharing)
   - Ensure the link is set to "Anyone with the link can view" to allow the app to download it during deployment.
 
 ## Installation (For Local Development)
